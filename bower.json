@@ -1,0 +1,21 @@
+{
+  "name": "react-tutorial",
+  "version": "0.0.1",
+  "authors": [
+    "Zack Lalanne <zack.lalanne@gmail.com>"
+  ],
+  "description": "React tutorial for jquery users",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "react": "~0.13.3"
+  }
+}
